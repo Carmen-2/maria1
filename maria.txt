@@ -1,0 +1,267 @@
+ 
+Instituto tecnológico de colima
+
+
+Evolución de los sistemas operativos
+
+
+Materia:
+Fundamentos de investigación
+
+MAESTRA:
+Alma Delia Chávez Rojas
+
+Integrantes:
+Maria de los Angeles Cárdenas Silva
+Kevin Everardo González Pérez
+
+
+ÍNDICE
+Contenido
+Justificación	3
+Objetivos	3
+-Generales	3
+-Específicos	3
+Alcance	4
+Limitaciones	4
+Marco referencial	4
+¿Qué es un  sistema operativo?	4
+Características de los Sistemas Operativos	5
+Clasificación de los Sistemas Operativos	7
+Estructura de los sistemas operativos	9
+Línea del tiempo de los sistemas operativos	11
+Análisis minucioso y comparativo	12
+Propuestas de la técnica operacional	13
+Conclusiones	14
+Bibliografía	14
+
+
+Evolución de los Sistemas Operativos
+Justificación 
+
+Esta investigación es relevante para nuestra carrera como Ing. Sistemas Computacionales, ya que conforme va avanzando la tecnología han ido evolucionando los sistemas operativos. Con base  a lo anterior, es posible conocer las ventajas y desventajas de estos y, por lo tanto sería posible proponer nuestra propia técnica operacional.
+Objetivos
+Cuando se ha seleccionado el tema de la investigación debe procederse a formular los objetivos de investigación; que deben estar armonizados con los del investigador y los de la investigación.  El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. El objetivo del investigador es llegar a tomar decisiones y a una teoría que le permita generalizar y resolver en la misma forma problemas semejantes en el futuro. Los métodos que se elijan deben ser los más apropiados para el logro de los objetivos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. (Tavárez, 2010)
+-Generales
+?	Realizar un análisis minucioso y comparativo acerca de las ventajas y desventajas de los sistemas operativos que a lo largo de la historia ha evolucionado para facilitar el trabajo tanto industrial como comercial sin dejar a un lado las comunicaciones, que el mundo los ha adoptado para un buen funcionamiento.
+-Específicos 
+(Rosas Burelo, 2010) Indican lo que se pretende realizar en cada una de las etapas de la investigación. Son logros parciales que facilitan el control sistemático de la investigación y que al ser alcanzado en conjunto nos permiten garantizar que el objetivo general ha sido logrado.
+?	Entender y comprender la clasificación de los diferentes tipos de sistemas operativos.
+?	Realizar un análisis minucioso las diferentes plataformas  de los sistemas operativos en un periodo de 3 semanas.
+?	Construir a lo largo de nuestra investigación nuestro propio concepto de los sistemas operativos.
+?	Demostrar la eficiencia de los sistemas operativos
+?	Crear una línea del tiempo sobre los sistemas operativos
+?	Conocer las bases teóricas de la estructura y funcionamiento de los sistemas operativos.
+Alcance 
+Comprende las actividades orientadas a garantizar el cumplimiento de las tareas necesarias para lograr los objetivos del proyecto
+?	Presentar nuestra investigación  documental sobre la evolución de los sistemas operativos
+?	Exponer las ventajas y desventajas sobre nuestra investigación documental sobre los sistemas operativos.
+Limitaciones 
+El planteamiento del problema es delimitado y específico al ser poco flexible no es posible que puedan abordarse otros aspectos y solo se busque lo necesario
+?	Por cuestiones de tiempo y por falta de conocimiento no podremos desarrollar nuestro sistema operativo ya que es bastante amplio
+?	No podremos explicar en concreto todos los sistemas operativos
+?	No podremos construir una amplia investigación sobre la evolución de los sistemas operativos.  
+
+Marco referencial
+
+¿Qué es un  sistema operativo?
+ “Un sistema operativos es un programa (o conjunto de programas) de control que tiene por objetivo facilitar el uso de la computadora y conseguir que esta se utilice eficientemente” (Torres C. Juan 2001 P12)
+
+"Es difícil definir qué es un sistema operativo aparte de decir que es el software que se ejecuta en modo kernel (además de que esto no siempre es cierto). Parte del problema es que los sistemas operativos realizan dos funciones básicas que no están relacionadas: proporcionar a los programadores de aplicaciones (y a los programas de aplicaciones, naturalmente) un conjunto abstracto de recursos simples, en vez de los complejos conjuntos de hardware; y administrar estos recursos de hardware. Dependiendo de quién se esté hablando, el lector podría escuchar más acerca de una función o de la otra. Ahora analizaremos ambas." (Andrew S. Tanenbaum)
+
+"Comenzando con la 80386, las computadoras basadas en Intel han tenido cuatro niveles de seguridad de hardware, denominados modos, empezando con el modo de usuario y terminando con el modo kernel, el nivel con menos restricciones. Este modo permite acceder a todas las características de la computadora: el sistema operativo controla cuidadosamente su uso, ya que los virus y otras formas de malware podrían usarlo para aprovecharse de una computadora. (Barett T. J 2016)
+
+"Un sistema operativo es un programa que actúa como intermediario entre el usuario y el hardware de un sistema de cómputo. El propósito de un sistema operativo es ofrecer un ambiente en el que el usuario pueda ejecutar programas de una forma cómoda y eficiente". (Santiago Candela, 2007)
+
+Un Sistema Operativo (SO) es un software que proporciona un acceso sencillo y seguro al soporte físico del ordenador (hardware), ocultando al usuario detalles de la implementación particular y creando la ilusión de existencia de recursos ilimitados (o abundantes). Máquina Virtual. Otra definición, es el de un programa que actúa como intermediario entre el usuario de la computadora y el hardware de la computadora. (Santiago Felici, 2016, Pág. 3)
+
+Características de los Sistemas Operativos
+Estos equipos avanzados incorporan sistemas operativos tales como son Symbian, Android, iOS (p.e. iPhone), Windows Phone y BlackBerry. Reproductores multimedia y pocket-book. Almacenan y reproducen audio y video, algunos permiten una conexión limitada a Internet (p.e. iPod). Los lectores de libros digitales (pocket-book) son pantallas de reducidas dimensiones que almacenan y reproducen textos e imágenes digitales. (Pascual, M. and Madeira, M. (2016).
+
+(Magister M, 2003) indica que las características de los sistemas operativos son:
+?	Compartir el hardware entre usuarios
+?	Permitir a los usuarios compartir datos entre sí mismos
+?	Planificar recursos
+?	Facilitar la entrada
+?	Recuperarse de los errores
+La siguiente imagen muestra algunas características del sistema operativo Unix:
+
+ 
+Ilustración 1 características de un sissxsxedtema Unix
+
+ “Dice que las características de los sistemas operativos son las siguientes:
+?	Sistemas monolíticos: es muy común no existe estructura propiamente o es mínima
+?	Sistemas con capas: es una generalización del modelo de estructura simple para un sistema monolítico” (Martínez M, 2005)
+
+(Maria P, 2001) Dice que las características de los sistemas operativos son:
+?	Monolítico
+?	Jerárquico
+?	Cliente-servidor
+ 
+Ilustración 2 modelo de estructuración simple para un sistema monolítico.
+
+Según (Andrew S, 2004) indica que las características de un sistema operativo son: 
+?	Un programa principal que invoca el procedimiento de servicio solitario.
+?	Un conjunto de procedimientos de servicio que ejecutan las llamadas al sistema.
+?	Un conjunto de procedimientos utilitarios que apoyan a los procedimientos de servicio.
+ 
+Ilustración 3 la estructura de VM/370
+Sistemas de adaptación de contenidos. Permiten que los diferentes contenidos que se requieran en un proceso de aprendizaje sean adaptados para obtener su máximo rendimiento desde el punto de vista pedagógico. Este tipo de sistemas se centran básicamente en dos cuestiones fundamentales, qué adaptar y cómo realizar esa adaptación. La primera de ellas se refiere a qué elementos deben adaptarse para un correcto aprovechamiento de los contenidos. (Ángel, P, 2001)
+
+Dice que las características de los sistemas operativos son las siguientes: En computadoras, el sistema operativo comienza a funcionar cuando finaliza el trabajo del BIOS al encenderse o reiniciar la computadora. Los sistemas operativos poseen una interfaz que puede ser gráfica (GUI) o de texto (línea de comandos). Los sistemas operativos forman una plataforma para que otros sistemas o aplicaciones la utilicen. Aquellas aplicaciones que permiten ser ejecutadas en múltiples sistemas operativos son llamadas multiplataforma.” (Miguel C, 2006)
+
+Dice algunas características de los sistemas operativos: Los sistemas operativos pueden ser centralizados, si permiten utilizar recursos de una sola computadora, o distribuido si permiten utilizar recursos de más de una computadora al mismo tiempo. Todos los sistemas operativos deben incluir un soporte para uno o más sistemas de archivos. Por ejemplo, el sistema operativo Windows XP soporta NTFS y FAT32, en tanto Windows Vista sólo soporta NTFS. (Francisco M.2002)
+
+Indica algunas características de los sistemas operativos: inicialmente, los sistemas operativos eran moliticos es decir estaban escritos como un programa que realizaba toda la función de un sistema operativo y además era muy difícil cambiar cualquier función o incluso corregir cualquier error. (María R.2005)
+
+Dice que las características de un sistema operativo son las siguientes:
+?	Interpreta los comandos que permiten al usuario comunicarse con el ordenador.
+?	Coordina y manipula el hardware de la computadora, como la memoria, las impresoras, las unidades de disco, el teclado o el mouse.
+?	Organiza los archivos en diversos dispositivos de almacenamiento, como discos flexibles, discos duros, discos compactos o cintas magnéticas.
+?	Gestiona los errores de hardware y la pérdida de datos.
+?	Servir de base para la creación del software logrando que equipos de marcas distintas funcionen de manera análoga, salvando las diferencias existentes entre ambos. (Javier J.2004)
+ Clasificación de los Sistemas Operativos
+Dice que la clasificación de los sistemas operativos son los siguientes: sistemas monolíticos, sistemas en capas, máquinas virtuales, exokernels, modelos cliente servidor. (Andrew.2008)
+Indica la clasificación de los sistemas operativos:
+Sistema Operativo Monotareas: Los sistemas operativos monotareas son más primitivos y es todo lo contrario al visto anteriormente, es decir, solo pueden manejar un proceso en cada momento o que solo puede ejecutar las tareas de una en una
+Sistema Operativo Monousuario: Los sistemas monousuarios son aquellos que nada más puede atender a un solo usuario, gracias a las limitaciones creadas por el hardware, los programas o el tipo de aplicación que se esté ejecutando.
+Sistema Operativo Multiusuario: Es todo lo contrario a monousuario; y en esta categoría se encuentran todos los sistemas que cumplen simultáneamente las necesidades de dos o más usuarios, que comparten mismos recursos. 
+Sistemas Operativos por lotes: Los Sistemas Operativos por lotes, procesan una gran cantidad de trabajos con poca o ninguna interacción entre los usuarios y los programas en ejecución. Se reúnen todos los trabajos comunes para realizarlos al mismo tiempo, evitando la espera de dos o más trabajos como sucede en el procesamiento en serie. (Javier J.2011)
+Explica la clasificación de los sistemas operativos: Dado el elevado número de funcionalidades y dispositivos móviles DuPont Global Mobility Innovation Team y otros propusieron en el año 2005 los siguientes estándares para - 203 - ISSN: 1133-8482 Píxel-Bit. Revista de Medios y Educación la definición de dispositivos móviles en función al tamaño de sus pantallas. (Ángeles P.2010)
+dice que la clasificación de los sistemas operativos son los siguientes: sistemas monolíticos, sistemas en capas, máquinas virtuales, exokernels, modelos cliente servidor. (Andrew, 2003)
+Dice que los sistemas operativos se clasifican de la siguiente forma:
+?	Interactivos: loa procesos se ejecutan y pueden pedir información al usuario atreves de la pantalla y recibirá por el teclado. (María R.)
+?	Tiempo real: requieren un tiempo de respuesta muy bajo es decir, inmediato.
+(Tatiana B.2002) ”Dice que los sistemas operativos se clasifican de la siguiente manera:  
+?	Sistemas Operativos de multitarea: con este sistema operativo es que la computadora procesa diferentes tareas al mismo tiempo.
+?	·         Sistema Operativo Monotareas: los sistemas operativos monotareas son más primitivos y es todo lo contrario a los de multitareas es decir, solo pueden manejar un proceso en cada momento o que solo puede ejecutar las tareas de una en una.
+?	         Sistema Operativo Monousuario: Los sistemas monousuarios son aquellos que nada más puede atender a un solo usuario, gracias a las limitaciones creadas por el hardware, los programas o el tipo de aplicación que se esté ejecutando.”
+(María p.2001) Indica la clasificación de los sistemas operativos es la siguiente:
+	1 Administración de tareas:
+1.1 Monotarea: los que permiten sólo ejecutar un programa a la vez
+	1.2 Multitarea: los que permiten ejecutar varias tareas o programas al mismo 	tiempo
+	2 Administración de usuarios
+2.1 Monosuario: aquellos que sólo permiten trabajar a un usuario, como es el caso de los ordenadores personales
+2.2 Multisuario: los que permiten que varios usuarios ejecuten sus programas a la vez.
+	3 Manejo de recursos o accesos a servicios 
+3.1 Centralizado: si permite utilizar los recursos de un solo ordenador
+3.2 Distribuidos: si permite utilizar los recursos (CPU, memoria, periféricos...) de más de un ordenador al mismo tiempo
+
+(Javier J.2016) Indica la clasificación de los sistemas operativos:
+Los sistemas operativos monotareas son más primitivos y es todo lo contrario al visto anteriormente, es decir, solo pueden manejar un proceso en cada momento o que solo puede ejecutar las tareas de una en una
+Sistema Operativo Monousuario: Los sistemas monousuarios son aquellos que nada más puede atender a un solo usuario, gracias a las limitaciones creadas por el hardware, los programas o el tipo de aplicación que se esté ejecutando.
+Sistema Operativo Multiusuario: Es todo lo contrario a monousuario; y en esta categoría se encuentran todos los sistemas que cumplen simultáneamente las necesidades de dos o más usuarios, que comparten mismos recursos.
+Sistemas Operativos por lotes: Los Sistemas Operativos por lotes, procesan una gran cantidad de trabajos con poca o ninguna interacción entre los usuarios y los programas en ejecución. Se reúnen todos los trabajos comunes para realizarlos al mismo tiempo, evitando la espera de dos o más trabajos como sucede en el procesamiento en serie.
+Estructura de los sistemas operativos
+(Luis D. ,2000) El sistema operativo DOS(Disk Operating System), al igual que cualquier sistema operativo, es un programa diferente al resto de también existen órdenes del DOS que no requieren del uso de parámetros, porque no necesitan especificar nada sobre la forma de actuar de la orden.
+ “Con las nuevas tendencias de los sistemas informáticos y de las redes de ordenadores, son cada vez más usuales de los sistemas distribuidos, y para soportarlos son necesarios sistemas operativos orientados a las comunicaciones. El sistema operativo de este tipo es el que se basa en la estructura Cliente-Servidor. 
+Es un sistema de propósito general, fundamentalmente dirigido a informática corporativa de las empresas, aunque se emplea en otros muchos ámbitos.” (Morera, 2002 pág. 46)
+ “Los Sistemas Operativos de Máquinas Virtuales proporcionan al usuario una copia exacta del hardware desnudo incluyendo sus modos usuario y núcleo, dispositivos de entrada y salida, interrupciones, almacenamiento, etc., llamadas Máquinas Virtuales, aparentando así que cada terminal posee su propia máquina real.”(Montes, 2010 pág. 3) 
+(Niño Camazón, 2006) La estructura interna de un sistema operativo es transparente al usuario, dependiendo del sistema, operativo, se estructura de una forma u otra, en este apartado se ven algunas estructuras que se han utilizado y se utilizan en los sistemas operativos: Sistema monopolítico, Sistema de capa, Microkernels, Máquinas virtuales, Exokernels. 
+Se  considera la organización interna de los S.O. y conforme a ella se los clasifica de la siguiente manera, destacándose sus principales características:
+Sistemas con capas: Es una generalización del modelo de estructura simple para un sistema monolítico. Consiste en organizar el S.O. como una jerarquía de capas, cada una construida sobre la inmediata inferior.
+El primer sistema con esquema fue el “THE”(Holanda-Dijkstra-1968): “THE”: Technische Hogeschool Eindhoven.
+Capa 0: Trabaja con la asignación del procesador. Alterna entre los procesos cuando ocurren las interrupciones o expiran los cronómetros. 
+Sistema monolítico: Es muy común: no existe estructura propiamente dicha o es mínima.  El S.O. es una colección de procedimientos que se pueden llamar entre sí. Cada procedimiento tiene un interfaz bien definido en términos de parámetros y resultados. La instrucción cambia la máquina del modo usuario al modo núcleo (o modo supervisor).
+Ver ilustración 4
+ 
+
+
+(Tanenbaum, 2003) Examinaremos cinco estructuras que se han probado, a fin de tener una idea de la gama de posibilidades, los cinco diseños son sistemas monolíticos, sistemas de capas, máquinas virtuales, exokernels y sistemas cliente-servidor.
+(Alegre Ramos, 2010)  Inicialmente, los sistemas operativos eran monolíticos, es decir, estaban escritos como un programa que realizaba todas las funciones del sistema operativo y, además, era muy difícil cambiar cualquier función o incluso corregir cualquier error.
+Atendiendo su estructura interna, los sistemas operativos se pueden dividir en: 
+Monolíticos
+Los sistemas operativos monolíticos no están estructurados, sino que están formados por un programa que consta de un conjunto de funciones o procedimientos interrelacionados entre sí, su modificación o la búsqueda de algún error es una terea bastante dificultosa. A medida que aumentan las funciones del sistema operativo y los recursos del sistema informático se hace necesaria una organización o estructuración de los sistemas operativos.
+En nivel o capas
+Los sistemas operativos también pueden estar estructurados en diferentes niveles o capas, cada uno de los cuales tiene una función claramente definida y una interfaz con la que se comunican los niveles adyacentes entre sí. El sistema operativo se dividía en los siguientes niveles (véase tabla 1). En los que podemos ver cada una de las funciones que realizaban.
+	
+Tabla 1 Tabla 1  Sistema operativo en capas "THE"
+5.- Operador
+4.- Programa del Usuario
+3.- Control de Entrada / Salida
+2.- Comunicaciones Operador-Proceso
+1.- Gestión de la memoria principal y secundaria 
+0.- Asignación del procesador y multiprogramación
+hardware
+
+(Duran, 2000) El sistema operativo DOS (Disk Operating System),al igual que cualquier sistema operativo, es un programa diferente al resto. También existen órdenes del DOS que no requieren del uso de parámetros, porque no necesitan especificar nada sobre la forma de actuar de la orden. Un ejemplo claro de orden que no se necesita ningún parámetro es la orden CLS, que sirve para borrar la pantalla. Como usted mismo se habrá dado cuenta, no tiene ningún sentido especificarle nada a la orden de borrado.
+
+Línea del tiempo de los sistemas operativos
+A continuación les mostramos la siguiente línea del tiempo en la  ilustración 7, como ha evolucionado los sistemas operativos, en la historia desde 1940-2009.
+  
+
+
+
+Análisis minucioso y comparativo
+
+Tabla 2 comparación de los sistemas operativos
+WINDOWS: 
+	-Mayor compatibilidad con Software
+-Mayor compatibilidad con Hardware
+-El respaldo de las compañías de pago
+- Es más fácil de manejar
+-Aplicaciones desarrolladas en menor tiempo-Infraestructura segura
+-La curva de aprendizaje en el sistema Windows es mucho menor
+-Es de interfaz gráfica.
+-Es el más utilizado por su fácil manejo.
+-Principalmente se utiliza en computadoras personales.
+UNIX:	-Se distribuye su código fuente, lo cual permite a cualquier persona que así lo desee hacer todos los cambios necesarios para resolver problemas que se puedan presentar, así como también agregar funcionalidad. El único requisito que esto conlleva es poner los cambios realizados a disposición del público.
+-Es desarrollado en forma abierta por cientos de usuarios distribuidos por todo el mundo, los cuales la red Internet como medio de comunicación y colaboración. Esto permite un rápido y eficiente ciclo de desarrollo.
+-Cuenta con un amplio y robusto soporte para comunicaciones y redes, lo cual hace que sea una opción atractiva tanto para empresas como para usuarios individuales.
+-Da soporte a una amplia variedad de hardware y se puede correr en una multitud de plataformas: PC's convencionales, computadoras Macintosh y Amiga, así como costosas estaciones de trabajo.
+MAC OS X:	-Tiene un núcleo de la familia UNIX más específicamente deriva de nexstep que era un sistema operativo cuyo núcleo tenía código del kernel Mach y de BSD.
+-Tiene una interfaz gráfica desarrollada por Apple que se llama Agua.
+-Utiliza como gestor de ventanas x11 características que comparte con otros sistemas Unix. 
+-Tiene un entorno de desarrollo Cocoa, la nueva interfaz de programación orientada a objetos. Como lenguaje de programación utiliza Objetivé-C, aunque también es accesible desde otros lenguajes como Java.
+LINUX:	• Funciona en modo protegido 386.
+• Se realizan volcados de estado (corre dumps) para posibilitar los análisis post-mortem, permitiendo el uso de depuradores sobre los programas no sólo en ejecución sino también tras abortar éstos por cualquier motivo.
+• Casi totalmente compatible con POSIX, System V y BSD a nivel fuente.
+• Mediante un módulo de emulación de iBCS2, casi completamente compatible con SCO, SVR3 y SVR4 a nivel binario.
+• Todo el código fuente está disponible, incluyendo el núcleo completo y todos los drivers, las herramientas de desarrollo y todos los programas de usuario; además todo ello se puede distribuir libremente. Hay algunos programas comerciales que están siendo ofrecidos para Linux actualmente sin código fuente, pero todo lo que ha sido gratuito sigue siendo gratuito.
+
+ Propuestas de la técnica operacional
+
+•	Nosotros crearemos un sistema operativo basándonos en la ventajas y desventajas de otros SO el cual tendrá las siguientes características :
+•	Nuestro SO tendrá la libertad de poder estar tanto en  los teléfonos móviles, tablets, dispositivos portátiles, e incluso ordenadores y set-top boxes. 
+•	Contará con una instalación sencilla
+•	Será un SO multitarea y mono usuario
+•	Podrá soportar archivos nfs
+•	Ofrecerá el bloqueo de intrusos
+•	Podrá ejecutar sin problemas cualquier aplicación
+•	Tendrá la posibilidad de asignar diferentes permisos a los usuarios
+•	Podrá ser compatible con otros SO
+•	Sera un SO no muy costoso
+•	Podrá configurarse en cualquier cosa que en Mac no se puede XD
+•	Tendrá la capacidad de interconexión y comunicaciones de procesos.
+•	Tendrá la facilidad para redireccionamiento de Entradas/Salidas.
+•	Garantizara un alto grado de portabilidad
+•	Empleara el  manejo dinámico de memoria por intercambio o paginación
+•	Ofrecerá facilidades para la creación de programas y sistemas y el ambiente adecuado para las tareas de diseños de software.
+En cuanto a dispositivos móviles
+•	Será capaz de hacer funcionar a la vez varias aplicaciones y además se encarga de gestionarlas, dejarlas en modo suspensión si no se utilizan e incluso cerrarlas si llevan un periodo determinado de inactividad. De esta manera se evita un consumo excesivo de batería.
+•	Contará con personalización del dispositivo
+
+
+Conclusiones
+
+Hemos concluido que con el transcurso del tiempo han ido avanzando las tecnologías e investigaciones dan a conocer nuevas creaciones que son de gran evolución para la computadora, esas se han dado por diferentes componentes que han surgido a partir de la investigación del computador. El sistema operativo es un conjunto organizado de programas que permiten controlar las operaciones generales del computador, facilita el uso de operaciones, crea y mantiene archivos, también nos permite el uso de los dispositivos como los periféricos (entrada, salida, entrada/salida), los sistemas operativos más conocidos son: WINDOWS, UNIX, MAC OS X, LINUX
+Bibliografía
+
+
+Alegre Ramos, M. (2010). SISTEMAS OPERATIVOS MONOPUESTO. [Online] Google Books. Available at: https://books.google.com.mx/books?id=4zjxk81LgKIC&pg=PA51&dq=estructura+de+los+sistemas+operativos&hl=es&sa=X&ved=0ahUKEwjuxNjgmYLNAhXmyoMKHfWMAFgQ6AEILDAD#v=onepage&q=estructura%20de%20los%20sistemas%20operativos&f=false [Accessed 30 Mar. 2016].
+Alegre Ramos, M. (2016). SISTEMAS OPERATIVOS MONOPUESTO. [Online] Google Books. Available at: https://books.google.com.mx/books?hl=es&lr=&id=4zjxk81LgKIC&oi=fnd&pg=PA55&dq=sistemas+operativos+y+su+evolucion&ots=oT7UjUn2NR&sig=SQBI3z0wuM3qYE4IRohZZw54PqE#v=onepage&q=sistemas%20operativos%20y%20su%20evolucion&f=false [Accessed 13 Mar. 2016].
+Cadavieco, Pascual, M. and, Madeira, M. (2016). REALIDAD AUMENTADA, UNA EVOLUCIÃ“N DE LAS APLICACIONES DE LOS DISPOSITIVOS MÃ“VILES. [Online] Idus.us.es. Available at: https://idus.us.es/xmlui/bitstream/handle/11441/22659/file_1.pdf?sequence=1 HYPERLINK "https://idus.us.es/xmlui/bitstream/handle/11441/22659/file_1.pdf?sequence=1&isAllowed=y"& HYPERLINK "https://idus.us.es/xmlui/bitstream/handle/11441/22659/file_1.pdf?sequence=1&isAllowed=y"isAllowed=y [Accessed 1 Mar. 2016].
+
+Conde, M., MuÃ±os, C. and García, F. (2016). Sistemas de AdaptaciÃ³n de Contenidos para Dispositivos MÃ³viles1. [Online] Google books. Available at: http://aipo.es/articulos/2/16.pdf [Accessed 1 Mar. 2016].
+
+Duran, L. (2000). Sistemas operativos. [Online] Google Books. Available at: https://books.google.com.mx/books?id=HmA14CvrErQC&pg=PA18&dq=estructura+de+los+sistemas+operativos&hl=es&sa=X&ved=0ahUKEwjZ-9ecnILNAhVL6SYKHRyJDtE4FBDoAQgmMAI#v=onepage&q=estructura%20de%20los%20sistemas%20operativos&f=false [Accessed 30 Mar. 2016].
+Martinez, M. (2016). Sistemas operativos. [Online] Google Books. Available at: https://books.google.com.mx/books?hl=es&lr=&id=N5yxiwilBhoC&oi=fnd&pg=PR1&dq=sistemas+operativos&ots=01S1KDJ7xT&sig=ckR0pcf_bNOjMm-iQ0XzFbWmWxs#v=onepage&q=sistemas%20operativos&f=false [Accessed 13 Apr. 2016].
+Martínez, P., cabello, M. and Díaz Martin, J. (2016). Sistemas operativos. [Online] Google Books. Available at: https://books.google.com.mx/books?hl=es&lr=&id=wXzwFPaVku0C&oi=fnd&pg=PA1&dq=sistemas+operativos+y+su+evolucion&ots=yBgiBXt88u&sig=3vwdE7FestuQaH_gqWdtPGqS5B8#v=onepage&q=sistemas%20operativos%20y%20su%20evolucion&f=false [Accessed 13 Apr. 2016].
+Niño Camazón, J. (2006). Sistemas operativos monopuesto. [Online] Google Books. Available at: https://books.google.com.mx/books?id=k5ifRF67clgC&pg=PA36&dq=estructura+de+los+sistemas+operativos&hl=es&sa=X&ved=0ahUKEwjome_MmILNAhUIVFIKHU1VC7YQ6AEIJzAC#v=onepage&q=estructura%20de%20los%20sistemas%20operativos&f=false [Accessed 30 Apr. 2016].
+Rodera, A. (2011). . Sistemas operativos sociales y entornos abiertos de aprendizaje. [online] Revista de Universidad y Sociedad del Conocimiento. Available at: http://file:///C:/Users/USUARIO/Downloads/254147-342980-1-PB.pdf [Accessed 1 Mar. 2016].
+
+Stallings, W. (2016). Sistemas operativos. [Online] Amazonas. Available at: http://file:///C:/Users/USUARIO/Downloads/492470359.WS11.pdf [Accessed 1 Mar. 2016].
+
+Tanenbaum (2003).  Sistemas operativos modernos. [Online] Available at: https://books.google.com.mx/books?hl=es&lr=&id=g88A4rxPH3wC&oi=fnd&pg=PR22&dq=sistemas+operativos&ots=ytXDVDgQYM&sig=gULrL6R2hMmpSmwKtGq5LUeruek#v=onepage&q=sistemas%20operativos&f=false [Accessed 12 May 2016].
+Tavárez, J. (2010). FILOSOFÍA, PSICOLOGÍA Y POLÍTICA.: OBJETIVOS, METODOLOGÍA Y TÉCNICAS DE LA INVESTIGACIÓN. [Online] Filosicologia.blogspot.mx. Available at: http://filosicologia.blogspot.mx/2010/11/objetivos-metodologia-y-tecnicas-de-la.html [Accessed 12 Mar. 2016].
+
